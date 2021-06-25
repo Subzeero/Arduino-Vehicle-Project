@@ -11,3 +11,5 @@
 |IR Sensor|2|Receives commands from remote|
 |IR Remote|1|Used to send commands to vehicle|
 |16 x 2 I2C LCD Display|1|Displays information during operation (mode, direction)|
+
+Additional schematic information can be found here: https://www.tinkercad.com/things/bboCvcPn62j
